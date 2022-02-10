@@ -1,0 +1,8 @@
+
+The telecom company Interconnect would like to be able to forecast their churn of clients, in order to offer promotional codes and special plans to customers who may be planning to leave. 
+
+The data consists of four data files: contract, internet, personal, phone.
+
+After analyzing the data, we will prepare the data for predictive models, to predict who are the customers who may plan to leave the company in the future. We will train different kinds of models.
+
+The metric that will be used in this project is ROC AUC score, this will occur after we take care of the imbalanced data. And accuracy, which is the basic metric for classification models.
