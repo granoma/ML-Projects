@@ -9,14 +9,7 @@ There are four data files with a dataset in each of them.
   5   PaymentMethod: Bank transfer (automatic), Credit card (automatic), Electronic check, 	Mailed check
   6   MonthlyCharges: the sum of the monthly charge
   7   TotalCharges: the sum of all monthly charges
-  
- - personal: and it contains the following columns:
-  0   customerID: this is a string
-  1   gender: Female / Male
-  2   SeniorCitizen: 0 / 1 (correspond to Yes / No)
-  3   Partner: Yes / No
-  4   Dependents: Yes / No
- 
+   
  - internet: and it contains the following columns
   0   customerID: this is a string
   1   InternetService: DSL , Fiber optic
@@ -26,6 +19,13 @@ There are four data files with a dataset in each of them.
   5   TechSupport: Yes / No
   6   StreamingTV: Yes / No
   7   StreamingMovies: Yes / No
+  
+ - personal: and it contains the following columns:
+  0   customerID: this is a string
+  1   gender: Female / Male
+  2   SeniorCitizen: 0 / 1 (correspond to Yes / No)
+  3   Partner: Yes / No
+  4   Dependents: Yes / No
   
  - phone: and it contains the following columns
   0   customerID: this is a string
