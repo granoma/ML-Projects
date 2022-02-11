@@ -1,4 +1,0 @@
-- The data consists of four data files: contract, internet, personal, phone.
-(There are four images displaying Plotly graphs that would not display otherwise.)
-- After analyzing the data, we will prepare the data for predictive models, to predict who are the customers who may plan to leave the company in the future. We will train different kinds of models.
-- The metric that will be used in this project is ROC AUC score, this will occur after we take care of the imbalanced data. And accuracy, which is the basic metric for classification models.
