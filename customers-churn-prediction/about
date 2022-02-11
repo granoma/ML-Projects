@@ -2,6 +2,7 @@
 The telecom company Interconnect would like to be able to forecast their churn of clients, in order to offer promotional codes and special plans to customers who may be planning to leave. 
 
 The data consists of four data files: contract, internet, personal, phone.
+(There are four images displaying Plotly graphs that would not display otherwise.)
 
 After analyzing the data, we will prepare the data for predictive models, to predict who are the customers who may plan to leave the company in the future. We will train different kinds of models.
 
