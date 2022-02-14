@@ -1,6 +1,6 @@
 # ML-Projects
 
-* Customers Churn Prediction
+* **Customers Churn Prediction**
 Task: predict customers churn of a telecom company, using classification models, evaluated by the ROC AUC metric.
 
 The project consists of:
