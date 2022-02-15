@@ -8,8 +8,8 @@ The project consists of:
 3. code: Jupyter notebook (churn_git_notebook.ipynb)
 
 
-## Project: Insurance Benefits and Linear Algebra
-Predicting likelihood of a customer receiving insurance benefits, and practicing obfuscation of the data.
+## Project: Linear Algebra with Linear Regression
+Predicting likelihood of a new customer to receive insurance benefits, and practicing obfuscation of the data using linear algebra techniques.
 The project consists of:
 1. data: one csv file (insurance_us.csv)
-3. code: Jupyter notebook (linear_algebra_git.ipynb)
+2. code: Jupyter notebook (linear_algebra_git.ipynb)
