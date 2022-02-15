@@ -6,7 +6,7 @@ The project consists of:
 1. data: 4 csv files
 2. images: 4 image files displaying Plotly graphs that would not display otherwise.
 3. code: Jupyter notebook (churn_git_notebook.ipynb)
-4. about file: about the data files (in 'data' folder)
+
 
 ## Project: Insurance Benefits and Linear Algebra
 Predicting likelihood of a customer receiving insurance benefits, and practicing obfuscation of the data.
